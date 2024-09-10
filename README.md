@@ -27,6 +27,7 @@ https://www.freepik.com/free-psd/flat-design-travel-template-landing-page_209370
 ### preview
 ![Globe Travel GIF Preview](https://github.com/user-attachments/assets/a87547c6-8b86-4928-88d8-2a6f9f451ba9)
 
+![image](https://github.com/user-attachments/assets/4d22360e-c6e5-4132-8014-72387c64847e)
 
 
 
