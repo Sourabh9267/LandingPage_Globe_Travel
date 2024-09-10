@@ -34,7 +34,6 @@ https://www.freepik.com/free-psd/flat-design-travel-template-landing-page_209370
 To view or edit the landing page, simply clone the repository and open the index.html file in your browser.
 
 
-git clone https://github.com/Sourabh9267/DesignSmith_LandingPage.git
-
+git clone https://github.com/Sourabh9267/LandingPage_Globe_Travel.git
 
 Feel free to contribute or provide feedback!
